@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Flutter develoepr**
+_MLH Fellow_
+_**DSC LEAD**_
